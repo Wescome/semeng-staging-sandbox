@@ -1,0 +1,6 @@
+{
+  "name": "semeng-staging-candidate",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node test/validate-invoice.test.ts" }
+}
